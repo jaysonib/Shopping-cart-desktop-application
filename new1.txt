@@ -1,0 +1,28 @@
+
+
+
+--->>> Brands panel : Insert into database
+		    : Retrive data from the database		
+
+
+
+--->>> Catagory panel : Inser into database
+
+
+
+--->>> Store panel : Insert into database
+
+
+
+--->>>Attributes panel : Insert into database
+
+
+
+
+--->>>Products panel : 
+	Add product:
+			: Insety into database
+			: retrive values of color, size, brands, catagory, stores from the database
+	Manage product:
+			: Retrive data from the database of the products
+	
